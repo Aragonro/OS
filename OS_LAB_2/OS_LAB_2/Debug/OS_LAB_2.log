@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OS_LAB_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  rsa.cpp
+  OS_LAB_2.vcxproj -> D:\VS2015gabela\Projects\OS_LAB_2\Debug\RSA.dll
+  OS_LAB_2.vcxproj -> D:\VS2015gabela\Projects\OS_LAB_2\Debug\RSA.pdb (Full PDB)
